@@ -231,7 +231,7 @@ export default function App() {
             </div>
           </div>
           <div className="bg-white\/60 p-4 rounded-xl shadow-lg backdrop-blur-xl border border-white\/20 text-center">
-            <div className="text-2xl font-bold">5+</div>
+            <div className="text-2xl font-bold">2+</div>
             <div className="text-sm text-gray-600">
               Production-grade backend projects
             </div>
