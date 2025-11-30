@@ -65,6 +65,13 @@ const projects = [
     link: "https://github.com/dhairyajoshi/minesweeper",
     hosted: "https://minesweeper-l7da.onrender.com/",
   },
+  {
+    title: "BFS-visualizer (Flutter)",
+    desc: "Visualizer for Breadth-First Search (BFS) algorithm implemented in Flutter. Place start and end nodes, add walls, and watch the algorithm explore the grid in real-time with animated steps.",
+    tech: ["Flutter", "Dart", "DSA"],
+    link: "https://github.com/dhairyajoshi/BFS-Visualizer",
+    hosted: "https://bfs-visualizer.onrender.com/#/",
+  },
 ];
 
 const education = [
